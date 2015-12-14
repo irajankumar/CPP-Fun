@@ -1,5 +1,5 @@
 # CPP-Fun
-Moments of fun in Programming and practice Codes i written during learning C++.
+Moments of fun in Programming and practice of C++.
 <pre>
 #include<iostream.h>
 using namespace std;
