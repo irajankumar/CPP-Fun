@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1439416262 source:c:\users\hp\documents\cb projects\hacker rank cpp test\main.cpp
+	<sstream>
+	<vector>
+	<iostream>
+
